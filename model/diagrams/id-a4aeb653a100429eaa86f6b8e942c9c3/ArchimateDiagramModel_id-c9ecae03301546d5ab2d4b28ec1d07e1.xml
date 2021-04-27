@@ -1,4 +1,32 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Solution Concept Diagram"
-    id="id-c9ecae03301546d5ab2d4b28ec1d07e1"/>
+    id="id-c9ecae03301546d5ab2d4b28ec1d07e1">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c7cade0464964655afd5a8381f831b0b"
+      textAlignment="1">
+    <bounds
+        x="96"
+        y="48"
+        width="865"
+        height="457"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-5155ef5a301940e3bc39d61394682219.xml#id-5155ef5a301940e3bc39d61394682219"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f201839dc1414db485ab4adc6dc114ef"
+      textAlignment="1">
+    <bounds
+        x="96"
+        y="504"
+        width="865"
+        height="457"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-5c9425b1bd324a6da801831afa8bb978.xml#id-5c9425b1bd324a6da801831afa8bb978"/>
+  </children>
+</archimate:ArchimateDiagramModel>
