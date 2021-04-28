@@ -537,4 +537,17 @@
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_id-02e58553b1b2427585e1f531813eec8d.xml#id-02e58553b1b2427585e1f531813eec8d"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8c1878c317754804865b3c6c8c91d3f8"
+      fillColor="#ffff80">
+    <bounds
+        x="216"
+        y="344"
+        width="144"
+        height="24"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-c280aa6aafd34a95840160447f5bcfd0.xml#id-c280aa6aafd34a95840160447f5bcfd0"/>
+  </children>
 </archimate:ArchimateDiagramModel>
