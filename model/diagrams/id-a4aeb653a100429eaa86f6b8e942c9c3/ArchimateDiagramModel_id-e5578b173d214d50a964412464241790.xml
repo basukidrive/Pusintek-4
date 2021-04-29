@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stakehoder Motivation"
+    name="3. Stakehoder Motivation"
     id="id-e5578b173d214d50a964412464241790">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -329,6 +329,11 @@
           id="id-a116c6544b0341df8a94ebc6e93b21d1"
           source="id-f364358483f04e00ac5e62072e46bb73"
           target="id-508dd58b101a4028b742349691c64d11">
+        <bendpoints
+            startX="-102"
+            startY="-3"
+            endX="-105"
+            endY="-300"/>
         <bendpoints
             startX="-102"
             startY="9"
