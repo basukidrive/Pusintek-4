@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stakehoder Motivation"
+    name="3. Stakehoder Motivation"
     id="id-e5578b173d214d50a964412464241790">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -60,7 +60,7 @@
       textAlignment="1">
     <bounds
         x="372"
-        y="204"
+        y="156"
         width="1045"
         height="121"/>
     <children
@@ -227,7 +227,7 @@
       textAlignment="1">
     <bounds
         x="372"
-        y="407"
+        y="288"
         width="1045"
         height="109"/>
     <children
@@ -248,6 +248,11 @@
           id="id-90277fe3ffcd44398d15c11ff0bbea37"
           source="id-2e9ea703ab064e2bad9a0b32532bc828"
           target="id-4e10a6ad3475408b90fc05479e28960d">
+        <bendpoints
+            startX="283"
+            startY="82"
+            endX="-806"
+            endY="-245"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-2d9a4ec6307248ccaf657abfbde4dfb0.xml#id-2d9a4ec6307248ccaf657abfbde4dfb0"/>
@@ -300,6 +305,53 @@
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-dfde608bdf52452d8409e59d8ce36418.xml#id-dfde608bdf52452d8409e59d8ce36418"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-eef0d880dc3e486789991572445bcffe"
+          source="id-f364358483f04e00ac5e62072e46bb73"
+          target="id-ec1dd37fee914ec48bb4793528013411">
+        <bendpoints
+            startX="-102"
+            startY="-3"
+            endX="-105"
+            endY="-216"/>
+        <bendpoints
+            startX="-102"
+            startY="213"
+            endX="-105"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-9955fa3771c04eb19ce757d2956303ee.xml#id-9955fa3771c04eb19ce757d2956303ee"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-a116c6544b0341df8a94ebc6e93b21d1"
+          source="id-f364358483f04e00ac5e62072e46bb73"
+          target="id-508dd58b101a4028b742349691c64d11">
+        <bendpoints
+            startX="-102"
+            startY="-3"
+            endX="-105"
+            endY="-300"/>
+        <bendpoints
+            startX="-102"
+            startY="9"
+            endX="-105"
+            endY="-288"/>
+        <bendpoints
+            startX="-102"
+            startY="93"
+            endX="-105"
+            endY="-204"/>
+        <bendpoints
+            startX="-102"
+            startY="309"
+            endX="-105"
+            endY="12"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-f7b819d3a2134df1be0bba737952117d.xml#id-f7b819d3a2134df1be0bba737952117d"/>
       </sourceConnections>
       <bounds
           x="252"
@@ -493,7 +545,7 @@
       textAlignment="1">
     <bounds
         x="372"
-        y="588"
+        y="408"
         width="1045"
         height="301"/>
     <children
@@ -535,7 +587,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-ec1dd37fee914ec48bb4793528013411">
+        id="id-ec1dd37fee914ec48bb4793528013411"
+        targetConnections="id-eef0d880dc3e486789991572445bcffe">
       <bounds
           x="252"
           y="121"
@@ -547,7 +600,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-508dd58b101a4028b742349691c64d11">
+        id="id-508dd58b101a4028b742349691c64d11"
+        targetConnections="id-a116c6544b0341df8a94ebc6e93b21d1">
       <bounds
           x="252"
           y="205"
@@ -959,9 +1013,9 @@
         source="id-da27fd50275e486b8c092820f8eeadf6"
         target="id-067bef6919114d15bb2d5c615b5a61fc"/>
     <bounds
-        x="373"
-        y="960"
-        width="1044"
+        x="372"
+        y="744"
+        width="1057"
         height="156"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

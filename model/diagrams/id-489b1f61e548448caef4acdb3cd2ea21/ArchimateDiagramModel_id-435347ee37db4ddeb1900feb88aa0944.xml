@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Enterprise Data Management"
+    name="1. Enterprise Data Management"
     id="id-435347ee37db4ddeb1900feb88aa0944">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
