@@ -494,6 +494,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-067bef6919114d15bb2d5c615b5a61fc"
       name="Goal/Objective (measurament)"
+      targetConnections="id-213678b498314ab5a9f7fb0d67bf5576"
       textAlignment="1">
     <bounds
         x="372"
@@ -958,6 +959,10 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-78fcabd2fe3d4a6084ca89a816b30749.xml#id-78fcabd2fe3d4a6084ca89a816b30749"/>
     </sourceConnections>
+    <sourceConnections
+        id="id-213678b498314ab5a9f7fb0d67bf5576"
+        source="id-da27fd50275e486b8c092820f8eeadf6"
+        target="id-067bef6919114d15bb2d5c615b5a61fc"/>
     <bounds
         x="372"
         y="744"
