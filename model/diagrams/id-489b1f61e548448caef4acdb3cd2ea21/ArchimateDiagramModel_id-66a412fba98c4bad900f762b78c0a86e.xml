@@ -752,6 +752,10 @@
           id="id-b11ec9fb81b14af9be6e36cf0eb7aa06"
           source="id-302d01c387174176bc272f7711d2afe7"
           target="id-c60d5dcbfbd641e6b4f7c6766880068b">
+        <bendpoints
+            startX="264"
+            startY="126"
+            endY="-51"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-9e08da791f414941b0cfc2d3af969fe4.xml#id-9e08da791f414941b0cfc2d3af969fe4"/>
